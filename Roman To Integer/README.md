@@ -1,6 +1,6 @@
 ## Roman to Integer
 ### Objective:
-Roman numerals are represented by seven different symbols. <mark>I</mark>, `V`, `X`, `L`, `C`, `D` and `M`.
+Roman numerals are represented by seven different symbols. <code>I</code>, `V`, `X`, `L`, `C`, `D` and `M`.
 
 	Symbol       Value
 	I             1

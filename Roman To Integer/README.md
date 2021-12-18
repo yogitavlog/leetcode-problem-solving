@@ -1,6 +1,6 @@
 ## Roman to Integer
-#### Objective
-Roman numerals are represented by seven different symbols: **I**, **V**, **X**, **L**, **C**, **D** and **M**.
+### Objective:
+Roman numerals are represented by seven different symbols:*	I, **V**, **X**, **L**, **C**, **D** and **M**.
 
 	Symbol       Value
 	I             1
@@ -18,7 +18,7 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 * **X** can be placed before **L** (50) and **C** (100) to make 40 and 90. 
 * **C** can be placed before **D** (500) and **M** (1000) to make 400 and 900.
 
-#### Task
+### Task:
 Given a roman numeral, convert it to an integer.
 
 #### Example 1:
